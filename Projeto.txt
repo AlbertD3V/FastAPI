@@ -1,0 +1,11 @@
+Utilizando os códigos fornecidos pelo professor, faça funcionar uma API de alunos na sua conta no site http://replit.com.
+Em seguida, execute as seguintes tarefas:
+
+1. Crie um cliente python em sua máquina que consulte a API por aluno
+2. Crie um cliente python em sua máquina que consulte a API por turma
+3. Acrescente uma nova rota na API que realize consulta dos dados por nome de aluno e crie um cliente python em sua máquina que consulte a API por nome
+4. Acrescente uma nova rota na API que inclua um novo aluno no cadastro e crie um cliente python em sua máquina que envie dados de um novo aluno para ser incluído pela API
+5. Crie uma interface (pode ser em texto) que acione as quatro operações de ciente que você implementou até aqui.
+
+Se houver tempo, tente acrescentar um cadastro de cursos (exemplo: codigo, nome e descrição) a sua aplicação
+
